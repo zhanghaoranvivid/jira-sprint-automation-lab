@@ -1,8 +1,5 @@
 # Jira Sprint Automation Lab
 
-A practical portfolio project for Jira administration interviews:
-hands-on automation with **Jira Automation (Cloud)** and **ScriptRunner (Server/Data Center)**.
-
 ## Project goal
 Reduce manual work in sprint operations:
 - faster sprint kickoff
@@ -47,9 +44,3 @@ This project automates those steps end-to-end.
 3. Build three automation rules first (in `automations/jira-automation-rules.md`).
 4. Add two listeners + one scheduled job scripts in ScriptRunner.
 5. Run dry-run in staging for one sprint, then enable in production.
-
-## Resume one-liner ready to paste
-Built an end-to-end Jira sprint operations automation project using Jira Automation + ScriptRunner: delivered 3 automation rules and 3 Groovy scripts to standardize sprint kickoff, sprint health checks, and sprint closeout. Reduced manual sprint admin overhead by enforcing Story Point and Blocker checks, auto-flagging risk items, and pre-processing carryover work before retrospectives.
-
-## Suggested GitHub project link description
-`A lightweight but production-style Jira automation toolkit for Scrum teams: combines Automation for Jira rules and ScriptRunner Groovy scripts to streamline sprint planning, issue quality gates, and closeout hygiene.`
